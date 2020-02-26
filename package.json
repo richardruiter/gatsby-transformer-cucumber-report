@@ -1,0 +1,21 @@
+{
+  "name": "gatsby-transformer-cucumber-report",
+  "description": "Gatsby plugin for transforming sourced cucumber reports",
+  "private": false,
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Richard Ruiter <richard.ruiter@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richardruiter/gatsby-transformer-cucumber-report.git"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-transformer-plugin",
+    "gherkin",
+    "cucumber",
+    "bdd",
+    "living-documentation"
+  ]
+}
